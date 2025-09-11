@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pranavkumar2592@gmail.com**
 
-- 📄 Know about my experiences [4+]
+- 📄 Know about my experiences [4+](4+)
 
 - ⚡ Fun fact **Helping hand**
 
