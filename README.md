@@ -1,7 +1,7 @@
 ![logo](https://github.com/Devloper-Pranav/Devloper-Pranav/blob/main/git-banner.png)
 
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>
-<h3 align="center">5 years of experience in Software Development and Web Development and also enjoy learning new technologies and taking on design and development challenges..</h3>
+<h3 align="center">4+ years of experience in Software Development and Web Development and also enjoy learning new technologies and taking on design and development challenges..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devloper-pranav&label=Profile%20views&color=0e75b6&style=flat" alt="devloper-pranav" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pranavkumar2592@gmail.com**
 
-- 📄 Know about my experiences [5](5)
+- 📄 Know about my experiences [4+]
 
 - ⚡ Fun fact **Helping hand**
 
